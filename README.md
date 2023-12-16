@@ -6,6 +6,10 @@ Criando um Gerador de QR Code
 
 <img src="assets/Projeto  gerador de qr code.jpg">
 
+<br>
+
+<img src="assets/Projeto  gerador de qr code 2.jpg">
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
